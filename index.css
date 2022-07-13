@@ -49,8 +49,7 @@ html {
 
 .introduction4 {
 	display: inline-block;
-	margin-top: 15%;
-	margin-left: 20%;
+	margin-top: 25%;
 }
 
 .intro1 {
@@ -102,8 +101,4 @@ html {
 .card {
 	width: 25rem;
 	height: 25rem;
-}
-
-.proj {
-	margin-right: 20%;
 }
