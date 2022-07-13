@@ -6,10 +6,6 @@
 	font-family: 'Epilogue', sans-serif;
 }
 
-html {
-	height: 300vh;
-}
-
 .border-success {
 	border-color: #36f80a !important;
 }
@@ -49,7 +45,7 @@ html {
 
 .introduction4 {
 	display: inline-block;
-	margin-top: 25%;
+	margin-top: 30%;
 }
 
 .intro1 {
@@ -102,3 +98,7 @@ html {
 	width: 25rem;
 	height: 25rem;
 }
+
+.navbar {
+    background-color: rgba(0,0,0,0.8);
+    }
