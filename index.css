@@ -1,0 +1,109 @@
+/*CSS Reset*/
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Epilogue', sans-serif;
+}
+
+html {
+	height: 300vh;
+}
+
+.border-success {
+	border-color: #36f80a !important;
+}
+
+.btn-outline-success {
+	border-color: #36f80a !important;
+}
+
+.btn-outline-success:hover {
+	background-color: #36f80a !important;
+	color: black !important;
+}
+
+.circle-border {
+	border-radius: 50%;
+	border-width: 2px;
+}
+
+.introduction1 {
+	margin-top: 15%;
+	display: inline-block;
+	text-align: left;
+
+}
+
+.introduction2 {
+	display: inline-block;
+	margin-top: 35%;
+	margin-left: 20%;
+}
+
+.introduction3 {
+	display: inline-block;
+	margin-top: 25%;
+	margin-left: 20%;
+}
+
+.introduction4 {
+	display: inline-block;
+	margin-top: 15%;
+	margin-left: 20%;
+}
+
+.intro1 {
+	color: #36f80a;
+}
+
+.intro2 {
+	font-weight: bolder;
+	color: white;
+}
+
+.intro3 {
+	color: #36f80a;
+}
+
+.intro4 {
+	margin-right: 30%;
+	margin-top: 5%;
+}
+
+.wew {
+	color: #36f80a;
+	text-decoration: none;
+}
+
+.img1 {
+	width: 50%;
+	height: 50%;
+}
+
+.img2 {
+	height: 50%;
+}
+
+.img3 {
+	width: 75px;
+	height: 75px;
+}
+
+.row1 {
+	margin-top: 5%;
+}
+
+.ul1 {
+	text-decoration: none;
+}
+
+
+.card {
+	width: 25rem;
+	height: 25rem;
+}
+
+.card-body {
+
+}
