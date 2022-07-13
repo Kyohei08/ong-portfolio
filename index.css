@@ -6,6 +6,34 @@
 	font-family: 'Epilogue', sans-serif;
 }
 
+.naym {
+	font-family: 'Poppins', sans-serif;
+}
+
+.letter-green {
+	color: #36f80a;
+}
+
+/*Scrollbar Start*/
+::-webkit-scrollbar-track
+{
+	border: 1px solid black;
+	background-color: black;
+}
+
+::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #36f80a;	
+}
+/*Scrollbar End*/
+
+
 .border-success {
 	border-color: #36f80a !important;
 }
@@ -48,6 +76,10 @@
 	margin-top: 30%;
 }
 
+.spacer-top {
+	margin-top: 30%;
+}
+
 .intro1 {
 	color: #36f80a;
 }
@@ -72,12 +104,13 @@
 }
 
 .img1 {
-	width: 50%;
-	height: 50%;
+	width: 40%;
+	height: 40%;
 }
 
 .img2 {
-	height: 50%;
+	width: 50%;
+	margin-left: 25%;
 }
 
 .img3 {
@@ -95,10 +128,32 @@
 
 
 .card {
-	width: 25rem;
-	height: 25rem;
+	width: 30rem;
+	height: 30rem;
 }
 
 .navbar {
     background-color: rgba(0,0,0,0.8);
-    }
+}
+
+.toolbox {
+	border: 1px solid #36f80a;
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+}
+
+.custom-ul {
+	list-style-type: none;
+}
+
+.anchor {
+	text-decoration: none;
+	color: #36f80a;
+}
+
+.anchor:hover {
+	color: inherit;
+}
+
+
